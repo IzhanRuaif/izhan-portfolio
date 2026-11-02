@@ -201,31 +201,7 @@ const PROJECTS = [
 
 const TIMELINE = [
   {
-    period: "Jun 2025 – Jul 2025",
-    role: "Web Developer Intern",
-    organization: "Infyzen Software & IT Solutions",
-    location: "Remote",
-    badge: "Enterprise",
-    highlights: [
-      "Built and deployed wholesaleabayahijabs.in — a production B2B e-commerce platform — using React, TypeScript & Tailwind.",
-      "Reduced API response handling time by 30% through reusable modular components and REST pipeline integration.",
-      "Resolved 15+ cross-browser compatibility bugs and elevated Lighthouse performance scores.",
-    ],
-  },
-  {
-    period: "Feb 2025 – Mar 2025",
-    role: "Freelance Web Developer",
-    organization: "OSSVVEL Tiles — Client Project",
-    location: "Remote",
-    badge: "Production Client",
-    highlights: [
-      "Delivered ossvveltiles.com — a comprehensive 8-page responsive digital product showcase with React, TypeScript & Vite.",
-      "Reduced initial page load time by 40% via route-based code-splitting and asset optimization.",
-      "Boosted organic client inquiries through targeted on-page SEO, semantic markup, and mobile-first UX.",
-    ],
-  },
-  {
-    period: "2023 – Present",
+    period: "2022 – Present",
     role: "M.Tech Integrated Software Engineering",
     organization: "Vellore Institute of Technology (VIT)",
     location: "Vellore, India",
@@ -233,6 +209,30 @@ const TIMELINE = [
     highlights: [
       "Rigorous core curriculum in Distributed Computing, Cloud Architecture, Network Security, and Advanced Data Structures.",
       "Leading technical hackathon teams and architecting patented healthcare platforms and machine-learning cybersecurity systems.",
+    ],
+  },
+  {
+    period: "Feb 2025 – Mar 2025",
+    role: "Freelance Web Developer",
+    organization: "OSSVVEL Tiles — Client Project",
+    location: "Remote",
+    badge: "Freelance",
+    highlights: [
+      "Delivered ossvveltiles.com — a comprehensive 8-page responsive digital product showcase with React, TypeScript & Vite.",
+      "Reduced initial page load time by 40% via route-based code-splitting and asset optimization.",
+      "Boosted organic client inquiries through targeted on-page SEO, semantic markup, and mobile-first UX.",
+    ],
+  },
+  {
+    period: "Jun 2025 – Sept 2025",
+    role: "Web Developer Intern",
+    organization: "Infyzen Software & IT Solutions",
+    location: "Remote",
+    badge: "Internship",
+    highlights: [
+      "Built and deployed wholesaleabayahijabs.in — a production B2B e-commerce platform — using React, TypeScript & Tailwind.",
+      "Reduced API response handling time by 30% through reusable modular components and REST pipeline integration.",
+      "Resolved 15+ cross-browser compatibility bugs and elevated Lighthouse performance scores.",
     ],
   },
 ];
